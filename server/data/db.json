@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin",
+    "name": "Asha Admin",
+    "email": "admin@demo.com",
+    "role": "Admin",
+    "salt": "48e3eace8b2758e3",
+    "hash": "7b677cba5114719ba18fa9c3db899116b40cec959eff90ce4b02bbd782dd1f7d",
+    "createdAt": "2026-10-10T06:11:34.171Z"
+  },
+  {
+    "id": "user1",
+    "name": "Uma User",
+    "email": "user1@demo.com",
+    "role": "General User",
+    "salt": "2713a53d62ef90a1",
+    "hash": "987f52bbf4378addf05fd8e3752557375b0e2e00c610877927b56a6c19c78f76",
+    "createdAt": "2026-10-10T06:11:34.235Z"
+  }
+]
